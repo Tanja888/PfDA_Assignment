@@ -6,7 +6,7 @@ The purpose of this project is to gain knowledge in creating a synthesised datas
 ### Project plan
 - [ ] Choose the dataset
 - [ ] Explore the dataset and explain what is going to be analysed
-- [ ] Import file
+- [x] Import file
 - [ ] Clean data
 - [ ] Do statistics, analyse and compare variables
 - [ ] Generate a new dataset using numpy.random package - synthesise data
