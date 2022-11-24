@@ -13,3 +13,7 @@ The purpose of this project is to gain knowledge in creating a synthesised datas
 - [ ] Check references
 - [ ] Readme file - explain what is in the repository, how to run everything and put snippets of code
 - [ ] Jupyter notebook - include references, images, links, code and plots
+
+### References
+McGinley, B.(2022). PfDA Project 1, Programming for Data Analysis, Atlantic Technological University 
+Fincher, J.(n.d.). Reading and Writing CSV Files in Python, Real Python, https://realpython.com/python-csv/
