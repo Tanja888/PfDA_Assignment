@@ -8,6 +8,11 @@ The purpose of this project is to gain knowledge in creating a synthesised datas
 - [ ] Explore the dataset and explain what is going to be analysed
 - [x] Import file
 - [ ] Clean data
+        [ ] which variables to drop
+        [ ] explain why keeping certain variables
+        [ ] change the names
+        - [ ] decide on a size of the sample
+        - [ ] group by continents
 - [ ] Do statistics, analyse and compare variables
 - [ ] Generate a new dataset using numpy.random package - synthesise data
 - [ ] Check references
