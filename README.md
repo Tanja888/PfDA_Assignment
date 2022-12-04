@@ -11,7 +11,7 @@ Jupyter Notebook can be started through command line by running jupyter notebook
 The notebook will automatically open in the browser, it is possible to navigate it through the dashboard that contains files, notebook with .ipynb extension, Readme file and all the other files uploaded for the project. 
 
 ### Open the Notebook
-Follow the link here[[2]]https://github.com/Tanja888/PfDA_Assignment/blob/main/PfDA_Project1.ipynb 
+Follow the link here[[2]](https://github.com/Tanja888/PfDA_Assignment/blob/main/PfDA_Project1.ipynb) 
 
 ### Data
 Data used for the project were retreived from Kaggle platform about Quality of Life in cities across the world based on different variables. [[3]](https://www.kaggle.com/datasets/orhankaramancode/city-quality-of-life-dataset). After data exploration and data cleaning 229 datapoints were used over 7 variables.
