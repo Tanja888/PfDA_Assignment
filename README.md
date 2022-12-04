@@ -5,7 +5,7 @@ The purpose of this project is to gain knowledge in creating a synthesised datas
 
 ### Project plan
 - [x] Choose the dataset
-- [ ] Explore the dataset and explain what is going to be analysed
+- [x] Explore the dataset and explain what is going to be analysed
 - [x] Import file
 - [ ] Clean data:  
 - [ ] which variables to drop    
